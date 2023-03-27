@@ -3,7 +3,13 @@
 This simple application prototype shows how we can use React and Redux to build a friendly user experience with instant visual updates.
 
 ## Demo
-[Here](https://my-shopping-cart-leawwzhsmf.now.sh/)
+![image](https://user-images.githubusercontent.com/100623985/228092497-32d87005-ae87-4bc4-b268-ba68b479f0b6.png)
+![image](https://user-images.githubusercontent.com/100623985/228092565-37be30ab-0602-4787-bdfd-e9a15339f9c8.png)
+![image](https://user-images.githubusercontent.com/100623985/228092235-b862cbf4-33dd-476c-add7-80da16498319.png)
+![image](https://user-images.githubusercontent.com/100623985/228092302-98d35970-9a0a-4214-9d17-6a972d22a317.png)
+![image](https://user-images.githubusercontent.com/100623985/228092370-c371fbff-d07b-4774-beda-b23dc355ea48.png)
+![image](https://user-images.githubusercontent.com/100623985/228092421-f01f45c6-b54c-4f14-a129-1206ae1fd86f.png)
+![image](https://user-images.githubusercontent.com/100623985/228092148-d48f2905-9947-412d-a8b8-f13eda3b15cc.png)
 
 ## Features
 * Add and remove items 
